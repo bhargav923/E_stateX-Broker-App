@@ -13,16 +13,48 @@ dependencies:
   flutter:
     sdk: flutter
 
-
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.3.2
+  firebase_core: ^4.15.0
+  firebase_auth: ^6.7.0
+  cloud_firestore: ^6.10.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
 
 flutter:
   uses-material-design: true
 
+  assets:
+    - assets/Estate.png
+    - assets/login.png
+    - assets/register.png
+    - assets/House.png
+    - assets/House1.png
+    - assets/House2.png
+    - assets/Apartment.png
+    - assets/Apartment1.png
+    - assets/Vila.png
+    - assets/Vila1.png
+    - assets/Plot.png
+    - assets/Plot1.png
+    - assets/Plot2.png
+    - assets/Farm.png
+    - assets/Farm1.png
+    - assets/Farm2.png
+    - assets/Broker1.png
+    - assets/Broker2.png
+    - assets/Broker3.png
+    - assets/Broker4.png
+    - assets/Hiren_Broker.png
+    - assets/Dhruval_Broker.png
+    - assets/Bhargav.png
+
 flutter_launcher_icons:
   android: true
   ios: true
+  image_path: "assets/Estate.png"
