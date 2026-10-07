@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708987822724",
+    "project_id": "broker-17325",
+    "storage_bucket": "broker-17325.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708987822724:android:4de9fa1fbb50e60cb598d1",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb10kHiAkF0cImfR0MP0PBPtGgkUPlfCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
